@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Dart & Flutter",
-            "program": "lib/tekrar_ders/main.dart",
+            "program": "lib/ders5/main.dart",
             "request": "launch",
             "type": "dart"
         }
